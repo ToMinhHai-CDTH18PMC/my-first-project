@@ -1,0 +1,14 @@
+.active{
+    border:4px solid ;
+}
+.card-body span
+{
+    display: inline-block;
+    margin: auto 8px;
+    height: 50px;
+    width: 50px;
+}
+#content
+{
+    border: 1px solid;
+}
